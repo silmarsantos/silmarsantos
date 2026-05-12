@@ -1,9 +1,11 @@
-<img src = "banner.gif" width = "325px" align = "right">
+## ❤️ Olar. Bom ter vc por aqui.
 
-# ❤️ Olar. Bom ter vc por aqui.
+Engenheiro de Software Java
 
-Engenheiro de Software Java com IA 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
 
---- 
+---
 
 
