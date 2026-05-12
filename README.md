@@ -1,4 +1,4 @@
-## ❤️ Olar. Bom ter vc por aqui.
+## ❤️ Olar. Bom te ver por aqui.
 
 Engenheiro de Software:
 
